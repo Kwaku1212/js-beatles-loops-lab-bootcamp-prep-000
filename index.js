@@ -14,5 +14,8 @@ theBeatlesPlay(music,instru)
 */
 
 function johnLennonFacts(facts){
-  while(facts)
+  while(i < facts.length){
+    return (`${facts[i]}!!!`)
+  }
+  i++
 }
