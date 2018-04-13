@@ -14,5 +14,5 @@ theBeatlesPlay(music,instru)
 */
 
 function johnLennonFacts(facts){
-  
+  while(facts)
 }
