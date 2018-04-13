@@ -24,4 +24,9 @@ function johnLennonFacts(facts){
   return diff
 }
 
-function
+function iLoveTheBeatles(Number){
+  var num = []
+  do {
+    return ("I love the Beatles")
+  } while
+}
