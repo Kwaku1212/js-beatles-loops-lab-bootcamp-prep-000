@@ -14,9 +14,12 @@ theBeatlesPlay(music,instru)
 */
 
 function johnLennonFacts(facts){
+  var diff = []
   var i = 0
   while(i < facts.length){
-    return (`${facts[i]}!!!`)
+    var gains = (`${facts[i]}!!!`)
+    diff.push(gains)
     i++
   }
+  return diff
 }
