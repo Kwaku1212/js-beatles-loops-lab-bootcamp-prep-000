@@ -4,3 +4,8 @@ function theBeatlesPlay(musicians, instruments) {
     console.log(musicians[i] + "plays" + instruments[i])
   }
 }
+
+var music = ["John", "Andy", "Bob"]
+var instru = ["guitar", "violin", "banjo"]
+
+theBeatlesPlay(music,instru)
