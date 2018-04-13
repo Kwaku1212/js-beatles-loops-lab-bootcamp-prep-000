@@ -7,7 +7,8 @@ function theBeatlesPlay(musicians, instruments) {
   return yes
 }
 
-var music = ["John", "Andy", "Bob"]
+/* var music = ["John", "Andy", "Bob"]
 var instru = ["guitar", "violin", "banjo"]
 
 theBeatlesPlay(music,instru)
+*/
