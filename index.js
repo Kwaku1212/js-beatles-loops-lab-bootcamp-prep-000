@@ -24,9 +24,11 @@ function johnLennonFacts(facts){
   return diff
 }
 
-function iLoveTheBeatles(Number){
+function iLoveTheBeatles(number){
   var num = []
   do {
-    return ("I love the Beatles")
-  } while
+    var name = "I love the Beatles"
+    num.push(name)
+  } while (number < 15)
+  number++
 }
