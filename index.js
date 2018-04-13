@@ -12,3 +12,7 @@ var instru = ["guitar", "violin", "banjo"]
 
 theBeatlesPlay(music,instru)
 */
+
+function johnLennonFacts(facts){
+  
+}
