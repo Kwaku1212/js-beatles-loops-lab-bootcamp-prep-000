@@ -31,4 +31,5 @@ function iLoveTheBeatles(number){
     num.push(name)
     number++
   } while (parseInt(number) < 15);
+  return num
 }
