@@ -29,5 +29,6 @@ function iLoveTheBeatles(number){
   do {
     var name = "I love the Beatles"
     num.push(name)
+    number++
   } while (parseInt(number) < 15);
 }
